@@ -4,7 +4,9 @@
     {% include head.html %}
 
     <body>
+        {% if page.layout == "home" %}
         {% include particles.html %}
+        {% endif %}
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col col-sm-10 col-md-8 col-lg-6">
