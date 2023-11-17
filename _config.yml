@@ -1,8 +1,8 @@
 # site settings
 
-title:          cvless
+title:          Alex Velasco
 tagline:        Jekyll theme for a beautiful online CV
-url:            https://cvless.netlify.app
+url:            https://alex-velasco.github.io
 baseurl:        ""
 permalink:      pretty
 repo:           https://github.com/username/username.github.io
