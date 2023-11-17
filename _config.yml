@@ -5,12 +5,12 @@ tagline:        Jekyll theme for a beautiful online CV
 url:            https://alex-velasco.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/username/username.github.io
+repo:           https://github.com/alex-velasco/alex-velasco.github.io
 version:        2.0.0
 
 # user settings
 
-name:           Place Holder
+name:           Àlex Velasco
 photo:          /assets/photo.jpg
 organization:   University of Jekyll
 department:     Department of Themes
@@ -19,9 +19,8 @@ office:         Foobar Hall 1.23
 phone:          +1 234 567 890
 email:          username@domain.com
 author:
-  name:         Place Holder
-  url:          https://username.github.io
-
+  name:         Àlex Velasco
+  url:          https://alex-velasco.github.io
 # build settings
 
 plugins:
