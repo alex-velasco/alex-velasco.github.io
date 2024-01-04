@@ -1,4 +1,5 @@
-# Âlex Velasco
+[![pages-build-deployment](https://github.com/alex-velasco/alex-velasco.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/alex-velasco/alex-velasco.github.io/actions/workflows/pages/pages-build-deployment)
+# Àlex Velasco
 
 [Website](https://alex-velasco.github.io/) with some personal stuff. It can also be used as a CV. 😛
 
