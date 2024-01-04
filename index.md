@@ -16,11 +16,5 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include archive.html %}
 
 ## Credits
+This website was built from [piazzai/cvless](https://github.com/piazzai/cvless)
 
--   Piazzolla
--   Hack
--   Iconoir
--   Particles.js
--   Poole
--   Bootstrap
--   Open Color

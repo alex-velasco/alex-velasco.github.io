@@ -1,7 +1,7 @@
 # site settings
 
-title:          Alex Velasco
-tagline:        Jekyll theme for a beautiful online CV
+title:          Àlex Velasco
+tagline:        No one said it was easy
 url:            https://alex-velasco.github.io
 baseurl:        ""
 permalink:      pretty
@@ -12,12 +12,12 @@ version:        2.0.0
 
 name:           Àlex Velasco
 photo:          /assets/photo.jpg
-organization:   University of Jekyll
-department:     Department of Themes
-address:        123 Main St, Anytown, USA
-office:         Foobar Hall 1.23
-phone:          +1 234 567 890
-email:          username@domain.com
+organization:   Aily Labs Iberia SL
+department:     Platform
+  #address:        123 Main St, Anytown, USA
+#office:         Foobar Hall 1.23
+  #phone:          +1 234 567 890
+email:          alex.velasco.canetedecardenas@gmail.com
 author:
   name:         Àlex Velasco
   url:          https://alex-velasco.github.io
