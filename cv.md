@@ -63,7 +63,7 @@ title: CV
 
 <hr>
 <div id="center-image">
-<img src="https://zeusmanager.com/wp-content/uploads/2023/01/LOGO_ZEUS_SVG_3880FF.svg" height="75">
+<img src="https://zeusmanager.com/assets/logo-zm-2023-text.svg" height="75">
 </div>
 ### System administrator
 <div id="right-text">
