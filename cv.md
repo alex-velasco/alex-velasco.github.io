@@ -24,7 +24,7 @@ title: CV
 </style>
 # Web under construction...
 <div id="center-image">
-<img src="https://ailylabs.com/wp-content/uploads/2021/02/aily-logo.svg" height="75">
+<img src="https://ailylabs.com/wp-content/uploads/2024/02/aily-logo.svg" height="75">
 </div>
 ### Senior DevOps Engineer
 <div id="right-text">
